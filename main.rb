@@ -2,8 +2,8 @@ require 'httparty'
 require 'json'
 
 CRISP_WEBSITE_ID = '1b27675d-a76a-4967-bfdb-c8dc88f4aac5'
-CRISP_IDENTIFIER = '8f9a6b4a-95f3-4b31-b134-7c06308879b6'
-CRISP_SECRET_KEY = 'feade7c704b52a4e1e4ab01f4d4c689eecadc16e1e710f425f49a5e72d109dcb'
+CRISP_IDENTIFIER = '09640e77-73ad-4379-9bd4-7168f5f97705' 
+CRISP_SECRET_KEY = '8735a607b4e5ffff157004f56e9b5bdcab5d43d943d86b2597d141da16664abf' 
 
 def get_session_ids(from_date, to_date)
   url = "https://api.crisp.chat/v1/website/#{CRISP_WEBSITE_ID}/conversations/list"
@@ -14,6 +14,9 @@ def get_session_ids(from_date, to_date)
                           headers: headers,
                           query: { from_date: from_date, to_date: to_date })
 
+  puts "Response Code: #{response.code}"  # Debugging output
+  puts "Response Body: #{response.body}"  # Debugging output
+
   if response.success?
     parsed_response = JSON.parse(response.body)
 
@@ -21,8 +24,11 @@ def get_session_ids(from_date, to_date)
       parsed_response['data'].map { |conv| conv['session_id'] }
     else
       puts "Error: 'data' key not found in API response"
-      []
+      return []
     end
+  else
+    puts "Error fetching session IDs: #{response.code} - #{response.body}"
+    return []
   end
 end
 
