@@ -14,9 +14,6 @@ def get_session_ids(from_date, to_date)
                           headers: headers,
                           query: { from_date: from_date, to_date: to_date })
 
-  puts "Response Code: #{response.code}"  # Debugging output
-  puts "Response Body: #{response.body}"  # Debugging output
-
   if response.success?
     parsed_response = JSON.parse(response.body)
 
@@ -49,14 +46,36 @@ def get_session_messages(session_id)
   end
 end
 
-from_date = (Time.now - 24*60*60).to_i * 1000  # Yesterday in Unix timestamp milliseconds
-to_date = Time.now.to_i * 1000                  # Now in Unix timestamp milliseconds
+def save_all_user_messages_to_file(session_ids)
+  File.open("all_user_messages.txt", 'w') do |file|
+    session_ids.each do |session_id|
+      messages = get_session_messages(session_id)
+      if messages.is_a?(Hash) && messages['data'].is_a?(Array)
+        file.puts "Session ID: #{session_id}"
+        messages['data'].each do |msg|
+          if msg.is_a?(Hash) && msg['type'] == 'text' && msg['from'] == 'user'
+            file.puts(msg['content'])
+          end
+        end
+        file.puts
+      else
+        puts "No valid messages found for session #{session_id}"
+      end
+    end
+  end
+end
+
+offset = -6 * 3600
+date = Time.new(2024, 9, 16)
+
+from_date = Time.new((date + offset).year, (date + offset).month, (date + offset).day, 0, 0, 0).to_i * 1000  # Start of the day in Unix timestamp milliseconds
+to_date = Time.new((date + offset).year, (date + offset).month, (date + offset).day, 23, 59, 59).to_i * 1000  # End of the day in Unix timestamp milliseconds
+
+puts "From Date: #{Time.at(from_date / 1000).utc.strftime('%Y-%m-%d %H:%M:%S')} UTC"
+puts "To Date: #{Time.at(to_date / 1000).utc.strftime('%Y-%m-%d %H:%M:%S')} UTC"
 
 session_ids = get_session_ids(from_date, to_date)
 
 session_ids.each do |session_id|
-  messages = get_session_messages(session_id)
-  puts "Session ID: #{session_id}"
-  puts messages
-  puts "----"
+  save_all_user_messages_to_file(session_ids)
 end

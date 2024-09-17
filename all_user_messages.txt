@@ -1,0 +1,302 @@
+Session ID: session_f869cf88-e0fd-43bd-a2a0-c058a4d19e13
+hola
+una consukta, como puedo ver que usuario realizo algun cambio en X producto, o mas bien que usuario realizo el ultimo cambio en los prodcutos?
+otra consulta, un usuario como administrador de compañia puede elimar pedidos desde la web??
+pero en este caso, ya se le habia realizado un cierrre el 11 de septiembre, pero el pedido eliminado lo realizaron hoy
+no
+el usuario que elimino el pedido es administrador de compañia
+Pedido 50166784
+ok,  espero..
+aun cuando ya se realizo cierre en esa fecha?
+se podria obtener algun dato desde que equipo se hizo este cambio o desde una direccion IP o lugar?
+listo gracias
+como puedo ver cambio realizados en la descripción de algun producto??
+que usuario realizo el ultimo cambio
+para ver cambio masivos. me puedes faciltar el Link por favor
+no entiendo porque se puede editar una vez se realiza algun cierre
+hay alguna forma de volver a activar ese pedido??
+con la fecha de ese dia?
+listo, gracias
+
+Session ID: session_fd399ce7-122f-4ab0-b018-3bf594f44a4b
+en un pedido me está arrojando dos promociones
+siendo que solo existe una para ese producto
+si
+exacto
+por default me aparecen dos veces
+dais anteriores también me ha pasado con otras promociones
+solo que no tenía tiempo de avisar porque las tenía que arreglar y terminar
+Aceites y lubricantes Vulka
+El pedido más reciente
+No trae promociones aplicadas y lo abrí para ingresarse las
+Déjame checo
+Si, es a veces
+Pero si es seguido
+Tipo de 10 veces son 5-6 veces
+Buenas tardes
+Tengo este caso con el cliente CENTRO DE SERVICIO HOGAL
+Código: 9582564
+que en el saldo no nos cuadra
+y veo que se alteró el monto final
+no entendí mucho
+o sea el saldo si se alteró o no?
+
+Session ID: session_1a38adaf-922f-4e79-ac8f-340149af062c
+Gracias
+oye
+janeth
+tengo una duda
+si subo un cambio o agrego una etiqueta
+en el cliente ya no se ve como ajuste manual
+ya ves que antes cualquier cambio que hacia se veia como ajuste
+o ya se quito eso
+?
+ok porque antes si salia cualquier ajuste si no tocabas el saldo
+jeje creo que no me di a entender
+antes cualquier cambio que se hacia por plantilla en clientes salia como un ajuste aun que no se tocara saldos
+Mira janeth
+esto es lo que temia
+porque sale mi nobre
+nombre
+
+Session ID: session_9b7b0123-1f66-4c4a-8b17-af15baef868e
+Esto es lo unico que le aparece
+huevoscaldera@gmail.com
+Graciss
+Buenos días!
+
+He estado teniendo siempre problemas con esta operación, si pasan una venta  credito al contado me suma en vez de restar
+Asi he tenido algunos casos que los he rectificado desde la web; estos errores me están generando problemas
+Graciass
+Buenos días!
+
+Sigo con el mismo problema, si la venta se edita pasando de crédito a contado, me arroja ese error
+Hola buenos días!
+
+Continúo teniendo el mismo inconveniente, cada vez que edito una venta me refleja un error, los saldos del cliente no están visible desde el perfil cliente en la aplicación, aparecen en la web, pero no en la pestaña saldo del cliente en la aplicación
+> Ya revisé lo que está sucediendo y al parecer es un problema que debe ser revisado por el equipo de desarrollo, ya pasé tu solicitud para que se le dé solución lo antes posible.
+
+Llevo algunos meses con este problema, el sistema me ha perdido saldos, ventas y me encuentro perdiendo confianza en el. Busco algo que me garantice la información
+
+Session ID: session_abe265e0-0464-46ca-822f-56508761afec
+> Claro, contamos con un taller de implementación. Es de 4 horas y durante el taller se brinda la capacitación para configurar el sistema y aprender a usarlo.
+
+Me interesa
+> ¿Me puedes confirmar tu nombre por favor para poderte hacer la cotización del taller de implementación?
+
+Juan Josué Bueno marte
+829-969-3005
+Lo antes posible por favor
+Estoy a la espera
+> Claro, te dejo la información sobre el talle: https://www.handy.la/taller-arranque puede ser en 2 sesiones. 2 horas cada sesión. Después de las sesiones estarías listo para arrancar ya que parte del taller es la carga de datos iniciales y las configuraciones para dejar todo listo para que los usuarios puedan empezar a trabajar con la aplicación.
+
+Está bien
+Se puede pagar por PayPal?
+
+Session ID: session_0613ae7b-1d32-4907-afd4-a4322595aaa8
+buenas tardes
+tengo a un usuario Wildalis Linares
+que me dice que el Handy no responde, no deja cargar visitas ni nada
+me indica que ya reinicio el teléfono pero aún presenta problemas
+estará pasando algo a nivel aplicativo?
+ok vale, ya le indico
+
+Session ID: session_88115f87-e619-461a-b254-bb0ec55365a9
+ok, vamos a revisar y te comento cualquier inquietud
+otra pregunta
+en este reporte vemos una hora de inicio y una hora de fin, ese tiempo a qué se refiere?
+a la hora en la que iniciaron la visita y la terminaron?
+y donde se ve "resultado" esa información es la que ellos diligencian en el formulario?
+ok, gracias
+tenemos otra inquietud
+podemos usar un móvil para ensayo con clientes?, es decir es que intentamos iniciar una visita con un cliente, pero como no estamos cerca del lugar no nos deja iniciar la visita
+queremos probar desde la empresa para mirar formulario y enseñarles a los vendedores cómo sería el manejo de todo
+bueno lo vamos a intentar y te pregunto cualquier cosa
+Buen día
+tenemos una inquietud....
+necesitamos conocer hasta qué hora se encuentra el comercial en la zona trabajando... sin embargo a veces ellos nos dicen que se quedan hasta la hora que corresponde pero no registran la visita... hay alguna forma de saber hasta qué hora el teléfono permanece en la zona asignada?
+hola buen día
+quisiera que me colaboraran informándome en dónde los vendedores pueden registrar el valor de la venta que hacen en cada visita?
+si todavía no hemos ingresado producto y ellos todavía no toman pedido por la aplicación
+Gracias!
+gracias, me podrías colaborar también con la información para ingresar los productos?
+gracias, por favor tu me puedes indicar cómo se realiza la gestión de cobro de facturas?
+
+Session ID: session_810c0b60-4491-4730-8a99-b8f6c8859c5d
+MUCHAS GRACIAS!
+que tengas una buena tarde...
+Hola
+como desvinculo mi dspositivo
+tenia un a21s que lo reemplace
+y me dice que ya tengo 1 dispositivo vinculado ahora
+bien, lo intento. Gracias
+buenas, noches
+queremos borrar los datos de prueba, para  cagarlo bien
+Hola
+puedo vaciar los articulos, o bien como puedo pasarlos masivamente a todos en disponible = NO
+ya probe con el excel y no me cambia
+agregar nuevo, editar
+otra cosa,
+cambiamos a zona horaria nuestra, Argentina y ahora los pedidos de las 18 me toma como 21hs
+o sea le cambie a fecha de mañana a mi equipo de descarga para poder recuperar esas ventas
+en el movil dice uso de zona horara de la APP
+-03:00
+sino recordame cual es la por defecto y lo dejamos como estaba o es algo de la API que podemos manipular ?!
+buenas, bien...gracias
+
+Session ID: session_2f257067-b6b4-477f-86de-e7eab660525e
+Otra consulta
+El día 30 de agosto re reflejaba el sistema asi👆
+El sistema a veces se le queda en 0000
+> Hola, buenas tardes
+
+> La semana pasada tuvimos una intermitencia con uno de nuestros sistemas de sincronización, y creemos que esa haya sido la causa del problema
+
+> Ya lo arreglamos a partir del día 1ro y ya no va a volver a pasar
+
+> Te pido una enorme disculpa por el problema técnico
+
+> Saludos
+
+Que días de la semana pasada tuvieron la intermitencia
+Así poder evaluar
+Buenas tardes
+> ![1041273350769874.jpg](https://storage.crisp.chat/users/upload/session/2c3cba76a4f89800/1041273350769874_11wv09a.jpg) 
+
+Me puede ayudar, porque en total sale 0
+Y no el total que serian los 15
+A este usuario le está saliendo así
+Ya listo
+Gracias
+Ok
+Buenas tardes
+Como de hacer para corregir una cobranza
+
+Session ID: session_45244148-5123-4b22-920a-b66dafed68cc
+ok gracias
+Tepic Nayarit
+ok
+ya disminuyo 1 hra pero aun me falta una hora menos para que este en mi horario
+:$
+aun no se acomoda
+mira el horario de las ultimas visitas
+son de al rededor de las 12
+y aqui son las 10:20
+esta 2 hrs adelante
+ok
+en la pantalla de usuarios no queda, solo esta coorecto en detalles
+mira este es su ultimo cliente visitado a las 10:22
+y esta correcto
+y en usuarios dice aun 12:22
+Gracias
+
+Session ID: session_d5c1313b-658a-40f9-9bba-e7a7b397cd66
+buenas tardes
+me gustaría contratar el servicio solo que tengo algunas dudas
+se pueden dar de alta los clientes o solo se hace la venta en la ruta sin el nombre del cliente
+a ok muy bien
+mi giro es tortillas de Maiz, veia en los videos que se carga el inventario al vendedor, se puede cargar producto varias veces en el día
+ok muy bien y para enlazar el teléfono del vendedor con la web es complicado
+
+Session ID: session_42f60593-0c2b-424f-8052-b8b8e134e686
+olA+1🏾
+
+Session ID: session_dd108ae9-799d-42bc-83a7-3a97981da1fe
+buen dia
+hola buenos dias
+me puedes ayudar se me desactivo un usurio
+no recuerdo si era venta1 o ventas2
+el ultimo que estuvo activo
+ahi solo me sale el administrador
+no hay mas usuarios
+gracias
+
+Session ID: session_66b75239-6d04-41d2-9d86-77796f8ccc30
+nesecito saber quien edito la descripción del prodcuto
+
+Session ID: session_bb8be5db-7272-459e-ac83-fac82da532db
+buenos dias
+la aplicacion de handy  hace cosas extrañas con el balance de credito cuando se factura a credito y hay devoluciones altera el balance del credito anterior
+aplica el total de las devoluciones al balance de credito
+y como hago eso?
+
+Session ID: session_b617f441-c50a-4361-adb1-1860bc7965aa
+para darle terminar o.para darle la.fecha acordada con el cliente para el.pago
+me colabora con esos.pasos.por.favor
+aparecia que el.monte se exidia pero.ya el.jefe lo.mdifico
+oye 
+pero que modifico eso datos , pero aun  no.me.envia a la.otra ventana
+para  dejarlo como.credito
+solo se queda ay y ya , no me.bota a otra opcion o ventana
+y necesito que ese pedido quede como credito
+y no contado.....
+ya 
+se hixo ese proceso
+pero no.deja
+ya sincronice 
+y hasta cerre la.secion 
+simplemente se queda ay ....no da paso a otra ventanada ni nada
+a ya le.aviso.al.jefe para que haga el.cambio
+exlente ese era el problema 
+ya quedo 
+muchas geacias
+gracias*
+lo mismo ,
+hola
+para la.dar fecha limite de pago a los.credito no me.sale
+
+Session ID: session_b4d59fc3-0f71-4c05-8a53-40959a6f2bd5
+Buen dia
+Para desbloquear una cuenta de un usuario ?
+panbuenocor1@gmail.com
+ya desactive la pestaña de CUENTA BLOQUEADA
+
+Session ID: session_08cafa3a-df89-454e-adbd-9ba43ca6eb46
+Hola buenos díaz
+Cómo está🤝🤝
+Más o menos
+De q se trata el trabajo
+
+Session ID: session_153add53-61b8-489c-9973-47d56e824c27
+Hola Nora buen dia
+
+Necesito que se cancele la cuenta, no estamos usandola por ahora, ya me
+hicieron el cargo automatico y no lo necesito.
+
+Quedo atento
+
+```
+El vie, 6 sept 2024 a la(s) 7:21 p.m., Nora - Handy (nora@outbound.handy.la) escribió:
+
+> Eduardo, espero estés bien
+>
+> En esta ocasión te escribo para hacerte saber que hace unos momentos, tu
+> cuenta quedo bloqueada por el sistema. Esto se debe a que no hemos
+> recibido el pago de lo usado el mes anterior.
+>
+> Lo que pasará, es que no podrás acceder al portal web, a tus usuarios
+> móviles de momento no les cerramos sesión en su celular (por 5 días más)
+> para no interrumpir tu operación.
+>
+> Lamento el inconveniente y quedo a tus comentarios.
+>
+> Saludos.
+>
+>
+>
+>
+> --
+>
+> *Nora* de Handy <http://handy.la/>.
+>
+> Dejar de recibir nuestras respuestas
+> <https://links.outbound.handy.la/go/email/unsubscribe/?email_hash=3676dc24&key=e01cedd3&website_id=1b27675d-a76a-4967-bfdb-c8dc88f4aac5&website_domain=handy.la&campaign_id=00b97283-32c7-40e7-bddf-fd9f8b2715eb>
+> .
+>
+```
+
+Session ID: session_4c0e5b01-5322-4c29-8791-e0dc678085bf
+Hola buenos días
+Mi nombre es Erick yo era el gerente de ventas de Proalnex y los contrate a ustedes pero ahora necesito el programa para otra empresa
+Quisiera ver si se pueden comunicar conmigo
+
